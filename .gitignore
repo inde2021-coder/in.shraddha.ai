@@ -1,0 +1,17 @@
+.gradle/
+build/
+local.properties
+*.jks
+*.keystore
+.env
+node_modules/
+local.properties
+.env
+**/.env
+**/__pycache__/
+**/*.pyc
+**/.venv/
+**/node_modules/
+**/build/
+*.keystore
+*.jks
